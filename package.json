@@ -1,0 +1,25 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "train for excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donifz/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Dooronbek <doniattokurovich@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donifz/excel/issues"
+  },
+  "homepage": "https://github.com/donifz/excel#readme",
+  "private":"true"
+}
